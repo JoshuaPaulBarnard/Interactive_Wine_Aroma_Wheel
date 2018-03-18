@@ -2,6 +2,10 @@ body {
     background-image: url(images/background2.jpg);
 }
 
+h1, h3 {
+  text-align: center;
+}
+
 circle,
 path {
   cursor: pointer;
@@ -9,7 +13,7 @@ path {
 
 circle {
   fill: none;
-  pointer-events: all;  
+  pointer-events: all;
 }
 
 #tooltip { background-color: white;
