@@ -1,4 +1,7 @@
 # [Interactive Wine Aroma Wheel](https://joshuapaulbarnard.github.io/Interactive_Wine_Aroma_Wheel/)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 An Interactive Wine Aroma Wheel based on the Davis Wine Wheel by A.C. Noble.
 This is a zoomable and partitioned sunburst chart made using the D3.js v3 JavaScript Library.
 Clicking on the partitions will zoom-in on to that segment, with sub-categories radiating out.
