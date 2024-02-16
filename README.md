@@ -6,8 +6,7 @@ An Interactive Wine Aroma Wheel based on the Davis Wine Wheel by A.C. Noble.
 This is a zoomable and partitioned sunburst chart made using the D3.js v3 JavaScript Library.
 Clicking on the partitions will zoom-in on to that segment, with sub-categories radiating out.
 
-"The Davis Wine Aroma Wheel is divided into several sections to help you visualize the different flavors, scents and aromatic qualities found in most red and white wines, regardless of the grape variety.  The same aromatic complexities and sensations pictured on the wine aroma wheel are found in red and white wines all over the world, from Bordeaux, to California and the Rhone Valley, as well as every other viticultural area."
-- [TheWineCellarInsider.com](https://www.thewinecellarinsider.com/wine-topics/wine-educational-questions/davis-aroma-wheel/)
+"The Davis Wine Aroma Wheel is divided into several sections to help you visualize the different flavors, scents and aromatic qualities found in most red and white wines, regardless of the grape variety.  The same aromatic complexities and sensations pictured on the wine aroma wheel are found in red and white wines all over the world, from Bordeaux, to California and the Rhone Valley, as well as every other viticultural area."  - [TheWineCellarInsider.com](https://www.thewinecellarinsider.com/wine-topics/wine-educational-questions/davis-aroma-wheel/)
 
 ________________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
